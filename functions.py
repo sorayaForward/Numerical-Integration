@@ -1,6 +1,6 @@
 import numpy as np
 
-
+# les 4 fonctions à traiter
 def f1(x): 
     return np.sin(x)*np.sin(x)
 
